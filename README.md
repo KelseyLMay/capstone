@@ -1,6 +1,5 @@
-### Project Title
-Analzying Key Features in Determining Whether NHL Teams Win or Lose Games
-**Author**
+### Analzying Key Features in Determining Whether NHL Teams Win or Lose Games
+**Kelsey May**
 
 #### Executive summary
 
